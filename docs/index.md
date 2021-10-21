@@ -11,5 +11,9 @@ author: Jose Solis
 
 Oregon State University - B.Sc  
 BioResource Research ('17)  
-concentrations in Biotechnology, Genomics and Bioinformatics  
+Concentration in Biotechnology and Genomics/Bioinformatics  
 Minor in Chemistry  
+
+### OHSU Knights Diagnostics Laboratory
+
+#### Research Assistant II (7/15/2019 - Present)
