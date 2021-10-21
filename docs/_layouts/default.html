@@ -8,7 +8,9 @@
   <body>
     {{ content }}
     <footer>
-      &copy; {{ page.author }}
+      &copy; {% if page.my_variable %}
+      {% include {{ page.my_variable }} %}
+      {% endif %}
     </footer>
   </body>
 </html>
