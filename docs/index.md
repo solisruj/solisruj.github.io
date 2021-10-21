@@ -1,5 +1,6 @@
 ---
 layout: default
+author: Jose Solis
 ---
 
 # Jose Solis-Ruiz
