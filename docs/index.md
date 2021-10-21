@@ -2,8 +2,9 @@
 layout: default
 ---
 
-## solisruiz.j@gmail.com
+# Jose Solis-Ruiz
 
+## solisruiz.j@gmail.com
 
 ### Education
 
