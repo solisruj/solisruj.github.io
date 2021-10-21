@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## solisruiz.j@gmail.com
 
 
