@@ -8,11 +8,10 @@ author: Jose Solis
 ## solisruiz.j@gmail.com
 
 
-### OHSU Knights Diagnostics Laboratory
+### OHSU Knights Diagnostics Laboratory  
 #### Research Assistant II (7/15/2019 - Present)
 
-Using Python, R, SQL in Ubuntu to leverage clinical, pathological, ancillary, and genomic data to support diagnostic test development and research at Knights Diagnostic Laboratory.
-
+Using Python, R, SQL in Ubuntu to leverage clinical, pathological, ancillary, and genomic data to support diagnostic test development, research, and reporting at Knights Diagnostic Laboratory. Wrote a internal package named SoaPy to clean and transform data.
 
 ### Education
 
