@@ -1,6 +1,6 @@
 ---
 ---
-@import "main";
+@import "theme_main";
 
 .main-content {
   h1,
@@ -11,4 +11,9 @@
   h6 {
     color: #0042FF;
   }
+}
+
+.content {
+  width: 45rem;
+  margin: 0 auto;
 }
