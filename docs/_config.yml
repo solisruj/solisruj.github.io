@@ -1,4 +1,4 @@
-theme: theme_main
+theme: _theme_main
 
 sass:
   style: compact # possible values: nested expanded compact compressed
