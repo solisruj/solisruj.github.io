@@ -7,6 +7,7 @@ author: Jose Solis
 ## solisruiz.j@gmail.com
 
 
+
 ### OHSU Knights Diagnostics Laboratory  
 #### Research Data Analyst (08/11/2022 - Present)
 
