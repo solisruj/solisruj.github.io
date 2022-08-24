@@ -1,5 +1,5 @@
-theme:
-  theme_main
+#theme:
+#  theme_main
 
 sass:
   style: compact # possible values: nested expanded compact compressed
