@@ -37,7 +37,7 @@ Concentration in Biotechnology and Genomics/Bioinformatics
 Minor in Chemistry  
 
 ### Collaborations/Publications
-
+- [Post-induction Minimal Residual Disease Defined by Next-Generation Sequencing Predicts Poorer Clinical Outcomes in Patients with Acute Myeloid Leukemia](https://www.questdiagnostics.com/healthcare-professionals/clinical-education-center/conference-presentations/2022/post-induction-minimal-residual-disease-defined-by-next-generation-sequencing-predicts-poorer-clinical-outcomes-in-patients-with-acute-myeloid-leukemiag)
 - [Identification and prioritization of myeloid malignancy germline variants in a large cohort of adult AML patients](https://www.sciencedirect.com/science/article/abs/pii/S0006497121015639)
 - [Reproducibility of Next-Generation Sequencing Results Between Labs and Platforms](https://blogs.ohsu.edu/researchnews/2020/03/16/next-generation-sequencing-among-new-approaches-discussed-at-pathology-research-day/)
 
