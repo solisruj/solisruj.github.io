@@ -71,7 +71,7 @@ Position 93 using Non-conical Amino Acids
 
 ## Skills
 
-### Computer Knowlegde
+### Computer Knowledge
 
 - C/C++, Perl, Python, R, BASH, Unix, MySQL, PostgresSQL, AirBnB Knowledge Repo, Jupyter, JIRA, GIT
 
