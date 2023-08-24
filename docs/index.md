@@ -8,7 +8,7 @@ author: Jose Solis
 
 
 
-### Education
+## Education
 
 Oregon State University - B.Sc  
 BioResource Research ('17)  
@@ -16,6 +16,8 @@ Concentration in Biotechnology and Genomics/Bioinformatics
 Minor in Chemistry  
 
 
+
+## Professional Experience
 
 ### Research Data Analyst
 #### OHSU Knights Diagnostics Laboratory (08/11/2022 - Present)
@@ -44,7 +46,7 @@ Worked in a microbial BSL-2 laboratory to better understand *Vibrio cholerae.* P
 
 
 
-### Collaborations/Publications
+## Collaborations/Publications
 
 - [Li Y, Solis-Ruiz J, Yang F, Long N, Tong CH, Lacbawan FL, Racke FK, Press RD. NGS-defined
 measurable residual disease (MRD) after initial chemotherapy as a prognostic biomarker for acute
@@ -62,7 +64,7 @@ Platforms.](https://blogs.ohsu.edu/researchnews/2020/03/16/next-generation-seque
 
 
 
-### Undergraduate Research Projects
+## Undergraduate Research Projects
 
 - [Predation enhances survival and growth of pathogenic and non-pathogenic isolates of *Vibrio cholerae*](https://ir.library.oregonstate.edu/concern/undergraduate_thesis_or_projects/pr76f5133)
 - Assembler Optimization of Microbial Genome Read Datasets
