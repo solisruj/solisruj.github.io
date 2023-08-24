@@ -16,6 +16,7 @@ Concentration in Biotechnology and Genomics/Bioinformatics
 Minor in Chemistry  
 
 
+
 ### Research Data Analyst
 #### OHSU Knights Diagnostics Laboratory (08/11/2022 - Present)
 
@@ -42,6 +43,7 @@ Performed quality assurance and quality control to produce high-quality microbia
 Worked in a microbial BSL-2 laboratory to better understand *Vibrio cholerae.* Performed microbial analysis and co-culture experiments to understand predator-prey relations between protozoans and *Vibrio* variants. Developed a microbial genome assembly pipeline for microbial read datasets. Developed a bioinformatic tool for the identification of conserved and non-conserved genes in microbial genomes. Wrote a program to perform bulk microbial reference and SRA file downloads from the NCBI website.
 
 
+
 ### Collaborations/Publications
 
 - [Li Y, Solis-Ruiz J, Yang F, Long N, Tong CH, Lacbawan FL, Racke FK, Press RD. NGS-defined
@@ -57,6 +59,7 @@ patients with AML. Blood. 2022 Feb 24;139(8):1208-1221. doi: 10.1182/blood.20210
 34482403; PMCID: PMC9211447.](https://www.sciencedirect.com/science/article/abs/pii/S0006497121015639)
 - [Tauangtham A, et. Al. Reproducibility of Next-Generation Sequencing Results Between Labs and
 Platforms.](https://blogs.ohsu.edu/researchnews/2020/03/16/next-generation-sequencing-among-new-approaches-discussed-at-pathology-research-day/)
+
 
 
 ### Undergraduate Research Projects
