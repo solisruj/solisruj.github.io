@@ -19,12 +19,12 @@ Minor in Chemistry
 ### Research Data Analyst
 #### OHSU Knights Diagnostics Laboratory (08/11/2022 - Present)
 
-Use Python, R, SQL in linux to support clinical and research project needs. Provide statistical expertise and data visualization in Python and R.
+Use Python, R, SQL in Linux to support clinical and research project needs. Provide statistical expertise and data visualization in Python and R.
 
 ### Research Assistant II  
 #### OHSU Knights Diagnostics Laboratory (07/15/2019 - 08/11/2022)
 
-Using Python, R, SQL in Ubuntu to leverage clinical, pathological, ancillary, and genomic data to support diagnostic test development, research, and data reporting at Knights Diagnostic Laboratory. Wrote a internal package named SoaPy to clean and transform clinical, pathological, ancillary, and genomic data.
+Using Python, R, SQL in Linux to leverage clinical, pathological, ancillary, and genomic data to support diagnostic test development, research, and data reporting at Knights Diagnostic Laboratory. Wrote a internal package named SoaPy to clean and transform clinical, pathological, ancillary, and genomic data.
 
 ### Bioinformatic Research Specialist
 #### Bayer Crop Sciences (09/04/2018 - 03/29/2019)
@@ -39,7 +39,7 @@ Performed quality assurance and quality control to produce high quality microbia
 ### Laboratory and Bioinformatics Research Technician
 #### Oregon State University Department of Microbiology (12/2013 - 06/10/2017)
 
-Worked in a microbial BSL-2 laboratory to better understand *Vibrio cholerae.* Performed microbial analysis and co-culture experiments to understand predator-prey relations betweeen protozoans and *Vibrio* variants. Developed a microbial genome assembly pipeline for microbial read datasets. Developed a bioinformatic tool for the identification of conserved and non-conserved genes in microbial genoms. Wrote a program to perform buik microbial reference and SRA file download from the NCBI website.
+Worked in a microbial BSL-2 laboratory to better understand *Vibrio cholerae.* Performed microbial analysis and co-culture experiments to understand predator-prey relations between protozoans and *Vibrio* variants. Developed a microbial genome assembly pipeline for microbial read datasets. Developed a bioinformatic tool for the identification of conserved and non-conserved genes in microbial genomes. Wrote a program to perform buik microbial reference and SRA file downloads from the NCBI website.
 
 
 ### Collaborations/Publications
