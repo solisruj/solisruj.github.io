@@ -8,38 +8,38 @@ author: Jose Solis
 
 
 
-### OHSU Knights Diagnostics Laboratory  
-#### Research Data Analyst (08/11/2022 - Present)
-
-Use Python, R, SQL in linux to support clinical and research project needs. Provide statistical expertise and data visualization in Python and R.
-
-### OHSU Knights Diagnostics Laboratory  
-#### Research Assistant II (07/15/2019 - 08/11/2022)
-
-Using Python, R, SQL in Ubuntu to leverage clinical, pathological, ancillary, and genomic data to support diagnostic test development, research, and data reporting at Knights Diagnostic Laboratory. Wrote a internal package named SoaPy to clean and transform clinical, pathological, ancillary, and genomic data.
-
-### Bayer Crop Sciences
-#### Bioinformatic Research Specialist (09/04/2018 - 03/29/2019)
-
-Worked as part of a Bioinformatics Team to develop and annotate microbial genome assemblies. Collaborated with scientists to provide genomic and bioinformatic analysis on microbial genomes and genes using Perl, Python and R. Updated a chemical dereplication workflow and collaborated in its development into an in-house web application. Developed and documented relevant scripts/pipelines for genomic/bioinformatic use in Jupyter and R Markdown.
-
-### Agrinos, Inc.
-#### Microbial QA/QC Technician (10/16/2017 - 08/31/2018)
-
-Performed quality assurance and quality control to produce high quality microbial products. Collaborated in research and development of microbial products. Developed a document and signature tracker using Microsoft Power Automate. Assisted in general lab operations and lab maintenance. Ensured the proper documentation of experiments, data, quality assurance and quality control documents.
-
-### Oregon State University Department of Microbiology
-#### Laboratory and Bioinformatics Research Technician (12/2013 - 06/10/2017)
-
-Worked in a microbial BSL-2 laboratory to better understand *Vibrio cholerae.* Performed microbial analysis and co-culture experiments to understand predator-prey relations betweeen protozoans and *Vibrio* variants. Developed a microbial genome assembly pipeline for microbial read datasets. Developed a bioinformatic tool for the identification of conserved and non-conserved genes in microbial genoms. Wrote a program to perform buik microbial reference and SRA file download from the NCBI website.
-
-
 ### Education
 
 Oregon State University - B.Sc  
 BioResource Research ('17)  
 Concentration in Biotechnology and Genomics/Bioinformatics  
 Minor in Chemistry  
+
+
+### Research Data Analyst
+#### OHSU Knights Diagnostics Laboratory (08/11/2022 - Present)
+
+Use Python, R, SQL in linux to support clinical and research project needs. Provide statistical expertise and data visualization in Python and R.
+
+### Research Assistant II  
+#### OHSU Knights Diagnostics Laboratory (07/15/2019 - 08/11/2022)
+
+Using Python, R, SQL in Ubuntu to leverage clinical, pathological, ancillary, and genomic data to support diagnostic test development, research, and data reporting at Knights Diagnostic Laboratory. Wrote a internal package named SoaPy to clean and transform clinical, pathological, ancillary, and genomic data.
+
+### Bioinformatic Research Specialist
+#### Bayer Crop Sciences (09/04/2018 - 03/29/2019)
+
+Worked as part of a Bioinformatics Team to develop and annotate microbial genome assemblies. Collaborated with scientists to provide genomic and bioinformatic analysis on microbial genomes and genes using Perl, Python and R. Updated a chemical dereplication workflow and collaborated in its development into an in-house web application. Developed and documented relevant scripts/pipelines for genomic/bioinformatic use in Jupyter and R Markdown.
+
+### Microbial QA/QC Technician
+#### Agrinos, Inc. (10/16/2017 - 08/31/2018)
+
+Performed quality assurance and quality control to produce high quality microbial products. Collaborated in research and development of microbial products. Developed a document and signature tracker using Microsoft Power Automate. Assisted in general lab operations and lab maintenance. Ensured the proper documentation of experiments, data, quality assurance and quality control documents.
+
+### Laboratory and Bioinformatics Research Technician
+#### Oregon State University Department of Microbiology (12/2013 - 06/10/2017)
+
+Worked in a microbial BSL-2 laboratory to better understand *Vibrio cholerae.* Performed microbial analysis and co-culture experiments to understand predator-prey relations betweeen protozoans and *Vibrio* variants. Developed a microbial genome assembly pipeline for microbial read datasets. Developed a bioinformatic tool for the identification of conserved and non-conserved genes in microbial genoms. Wrote a program to perform buik microbial reference and SRA file download from the NCBI website.
 
 
 ### Collaborations/Publications
@@ -69,10 +69,11 @@ Genomes
 Position 93 using Non-conical Amino Acids
 
 
-### Technical Skills
+## Skills
 
-- C/C++, Perl, Python, R, BASH, Unix, MySQL, PostgresSQL, AirBnB Knowledge Repo, Jupyter Lab/Notebook, JIRA,
-GIT
+### Computer Knowlegde
+
+- C/C++, Perl, Python, R, BASH, Unix, MySQL, PostgresSQL, AirBnB Knowledge Repo, Jupyter, JIRA, GIT
 
 ### Genomics and Bioinformatics Tool Knowledge
 
