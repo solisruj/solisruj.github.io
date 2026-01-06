@@ -43,6 +43,8 @@ Worked in a microbial BSL-2 laboratory to better understand *Vibrio cholerae.* P
 ### Collaborations/Publications
 
 - [Impact of germline CHEK2 pathogenic variants on the risk of Acute Myeloid Leukemia and Myelodysplastic syndrome](https://aacrjournals.org/cebp/article/doi/10.1158/1055-9965.EPI-25-1074/771212/Impact-of-germline-CHEK2-pathogenic-variants-on)
+- [Landscape of somatic mutations and clonal evolution in NUP98‐rearranged adult acute myeloid leukaemia](https://onlinelibrary.wiley.com/doi/10.1111/bjh.19962)
+- [Undetectable BCR-ABL1 by Quantitative PCR May Predict Progression-Free Survival for Chronic Myeloid Leukemia Patients in Treatment Free Remission](https://www.sciencedirect.com/science/article/pii/S0023683724031878?via%3Dihub)
 - [NGS-defined measurable residual disease (MRD) after initial chemotherapy as a prognostic biomarker for acute myeloid leukemia](https://www.nature.com/articles/s41408-023-00833-7)
 - [Post-induction Minimal Residual Disease Defined by Next-Generation Sequencing Predicts Poorer Clinical Outcomes in Patients with Acute Myeloid Leukemia](https://www.questdiagnostics.com/healthcare-professionals/clinical-education-center/conference-presentations/2022/post-induction-minimal-residual-disease-defined-by-next-generation-sequencing-predicts-poorer-clinical-outcomes-in-patients-with-acute-myeloid-leukemiag)
 - [Identification and prioritization of myeloid malignancy germline variants in a large cohort of adult
