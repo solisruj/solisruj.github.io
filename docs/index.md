@@ -17,7 +17,7 @@ Minor in Chemistry
 ### Research Data Analyst
 #### OHSU Knights Diagnostics Laboratory (08/11/2022 - Present)
 
-Use Python, R, SQL in Linux to support clinical and research project needs. Provide statistical expertise and data visualization in Python and R.
+Use Python, R, SQL in Linux to support clinical and research project needs (see Collaborations/Publications). Provide statistical expertise and data visualization in Python and R.
 
 ### Research Assistant II  
 #### OHSU Knights Diagnostics Laboratory (07/15/2019 - 08/11/2022)
@@ -42,6 +42,7 @@ Worked in a microbial BSL-2 laboratory to better understand *Vibrio cholerae.* P
 
 ### Collaborations/Publications
 
+- [Impact of germline CHEK2 pathogenic variants on the risk of Acute Myeloid Leukemia and Myelodysplastic syndrome](https://aacrjournals.org/cebp/article/doi/10.1158/1055-9965.EPI-25-1074/771212/Impact-of-germline-CHEK2-pathogenic-variants-on)
 - [Li Y, Solis-Ruiz J, Yang F, Long N, Tong CH, Lacbawan FL, Racke FK, Press RD. NGS-defined
 measurable residual disease (MRD) after initial chemotherapy as a prognostic biomarker for acute
 myeloid leukemia. Blood Cancer J. 2023 Apr 24;13(1):59. doi: 10.1038/s41408-023-00833-7. PMID:
