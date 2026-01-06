@@ -43,19 +43,12 @@ Worked in a microbial BSL-2 laboratory to better understand *Vibrio cholerae.* P
 ### Collaborations/Publications
 
 - [Impact of germline CHEK2 pathogenic variants on the risk of Acute Myeloid Leukemia and Myelodysplastic syndrome](https://aacrjournals.org/cebp/article/doi/10.1158/1055-9965.EPI-25-1074/771212/Impact-of-germline-CHEK2-pathogenic-variants-on)
-- [Li Y, Solis-Ruiz J, Yang F, Long N, Tong CH, Lacbawan FL, Racke FK, Press RD. NGS-defined
-measurable residual disease (MRD) after initial chemotherapy as a prognostic biomarker for acute
-myeloid leukemia. Blood Cancer J. 2023 Apr 24;13(1):59. doi: 10.1038/s41408-023-00833-7. PMID:
-37088803; PMCID: PMC10123056.](https://www.nature.com/articles/s41408-023-00833-7)
+- [NGS-defined measurable residual disease (MRD) after initial chemotherapy as a prognostic biomarker for acute myeloid leukemia](https://www.nature.com/articles/s41408-023-00833-7)
 - [Post-induction Minimal Residual Disease Defined by Next-Generation Sequencing Predicts Poorer Clinical Outcomes in Patients with Acute Myeloid Leukemia](https://www.questdiagnostics.com/healthcare-professionals/clinical-education-center/conference-presentations/2022/post-induction-minimal-residual-disease-defined-by-next-generation-sequencing-predicts-poorer-clinical-outcomes-in-patients-with-acute-myeloid-leukemiag)
-- [IYang F, Long N, Anekpuritanang T, Bottomly D, Savage JC, Lee T, Solis-Ruiz J, Borate U, Wilmot B,
-Tognon C, Bock AM, Pollyea DA, Radhakrishnan S, Radhakrishnan S, Patel P, Collins RH, Tantravahi
-S, Deininger MW, Fan G, Druker B, Shinde U, Tyner JW, Press RD, McWeeney S, Agarwal A.
-Identification and prioritization of myeloid malignancy germline variants in a large cohort of adult
-patients with AML. Blood. 2022 Feb 24;139(8):1208-1221. doi: 10.1182/blood.2021011354. PMID:
-34482403; PMCID: PMC9211447.](https://www.sciencedirect.com/science/article/abs/pii/S0006497121015639)
-- [Tauangtham A, et. Al. Reproducibility of Next-Generation Sequencing Results Between Labs and
-Platforms.](https://blogs.ohsu.edu/researchnews/2020/03/16/next-generation-sequencing-among-new-approaches-discussed-at-pathology-research-day/)
+- [Identification and prioritization of myeloid malignancy germline variants in a large cohort of adult
+patients with AML](https://www.sciencedirect.com/science/article/abs/pii/S0006497121015639)
+- [Reproducibility of Next-Generation Sequencing Results Between Labs and
+Platforms](https://blogs.ohsu.edu/researchnews/2020/03/16/next-generation-sequencing-among-new-approaches-discussed-at-pathology-research-day/)
 
 ### Undergraduate Research Projects
 
